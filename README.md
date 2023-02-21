@@ -1,0 +1,2 @@
+# lnstaVote
+voting
